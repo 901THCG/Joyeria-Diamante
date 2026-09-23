@@ -1,1 +1,30 @@
-# Joyeria-Diamante
+# Joyería-Diamante
+***
+
+## DESCRIPCION
+Aplicación web
+
+## OBJETIVO
+Desarrollar
+
+## FUNCIONALIDADES
+-[] CRUD CLIENTES
+-[] CRUD PRODUCTOS
+-[] CRUD OFERTAS
+-[] CARRITO
+-[] PAGOS
+
+## EQUIPO DE DESARROLLO
++ DESARROLLADOR 1:
++ DESARROLLADOR 2:
++ DESARROLLADOR 3:
+
+## PILA TECNOLOGICA
++ Lenguaje
++ Framework
++ BD
++ Editor
+
+## FECHAS
++ Inicio
++ Final
